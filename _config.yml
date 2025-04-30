@@ -1,7 +1,8 @@
 title: "Inaya Rizvi"
 description: "Aspiring Data Scientist | Python, R, SQL, Data Visualization"
 show_downloads: true
-#remote_theme: mmistakes/minimal-mistakes
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-remote-theme
 baseurl: ""
 url: "https://inaya-r.github.io"
