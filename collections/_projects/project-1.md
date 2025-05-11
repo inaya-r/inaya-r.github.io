@@ -1,5 +1,5 @@
 ---
-layout: project-top # alternative layouts: project, project-left, project-right, project-top
+layout: project-right # alternative layouts: project, project-left, project-right, project-top
 title: "Beauty Inventory SQL Database & APIs"
 description: "Inventory and supplier management system for a beauty & personal care company"
 date: 2024-12-15
