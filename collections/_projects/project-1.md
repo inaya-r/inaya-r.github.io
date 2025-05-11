@@ -17,7 +17,7 @@ gallery:
 
 > The following ERD outlines the core relational structure for managing product inventory, supplier data, and transactions...
 
-![ERD Diagram](assets/images/beauty_inventory/beauty_inv_schema.png){: style="max-width: 90%; display: block; margin: 2rem auto;" }
+![ERD Diagram](/assets/images/beauty_inventory/beauty_inv_schema.png){: style="max-width: 90%; display: block; margin: 2rem auto;" }
 
 
 This capstone project centered around building a full backend solution for a fictional beauty & personal care company. The goal was to manage products, inventory, transactions, and suppliers using a normalized relational database paired with RESTful APIs for external access. The project was developed in Java using JDBC for database interaction, and follows REST conventions to ensure modularity and ease of integration with future front-end systems.
