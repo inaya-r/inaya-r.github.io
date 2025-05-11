@@ -11,7 +11,7 @@ client: "Academic Capstone Project"
 role: "Database Designer & Java Developer"
 gallery:
     - image: "/assets/images/beauty_inventory/beauty_inv_schema.png" 
-    - image: "/assets/images/beauty_inventory/suggest_restock_output.png" 
+    #- image: "/assets/images/beauty_inventory/suggest_restock_output.png" 
 
 ---
 
