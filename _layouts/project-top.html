@@ -3,30 +3,11 @@ layout: default
 body_classes: page-project
 ---
 
-{% assign limit = page.gallery_limit | default: 2 %}
-
 <div class="section">
   <div class="container">
 
-    {% if page.gallery %}
-    <div class="row mb-6">
-      <div class="col">
-        <div class="gallery gallery-two-column" style="display: flex; flex-wrap: wrap; justify-content: center;">
-          {% for item in page.gallery limit: limit %}
-          <div class="gallery-item">
-            <div class="gallery-image">
-              <img src="{{ item.image | relative_url }}" style="max-width: 100%; height: auto;" />
-            </div>
-            <div class="gallery-caption">{{ item.caption }}</div>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    </div>
-    {% endif %}
-
+    <!-- Metadata (Title, Date, Role, etc.) -->
     <div class="row">
-      <!-- Left Column: Metadata (title, date, role, etc.) -->
       <div class="col-12 col-md-6">
         {% if page.title %}
         <div class="project-heading">
@@ -58,16 +39,20 @@ body_classes: page-project
         </div>
         {% endif %}
       </div>
+    </div>
 
-      <!-- Right Column: Markdown content (Full Width Now) -->
+    <!-- Main Markdown Content (Full Width) -->
+    <div class="row">
       <div class="col-12">
         <div class="content" style="margin-top: 2rem;">
           {{ content }}
         </div>
       </div>
     </div>
+
   </div>
 </div>
+
 
 
 <!-- ---
