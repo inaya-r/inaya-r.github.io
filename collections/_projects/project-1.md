@@ -1,5 +1,5 @@
 ---
-layout: project-right # alternative layouts: project, project-left, project-right, project-top
+layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Beauty Inventory SQL Database & APIs"
 description: "Inventory and supplier management system for a beauty & personal care company"
 date: 2024-12-15
@@ -36,7 +36,6 @@ This project involved designing and implementing a relational database and RESTf
 
 ### Visuals
 
-![Database Schema](/assets/images/beauty_inventory/beauty_inv_schema.png)
 
 ---
 
