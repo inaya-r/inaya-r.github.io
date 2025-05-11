@@ -1,6 +1,9 @@
 # -------------------
 # Jekyll Config
 # --------------------
+
+remote_theme: rhollingsworth/curate
+
 baseurl: ""
 url: ""
 permalink: pretty
