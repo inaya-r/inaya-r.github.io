@@ -1,5 +1,5 @@
 ---
-layout: project # alternative layouts: project, project-left, project-right, project-top
+layout: project-top # alternative layouts: project, project-left, project-right, project-top
 title: "Beauty Inventory SQL Database & APIs"
 description: "Inventory and supplier management system for a beauty & personal care company"
 date: 2024-12-15
@@ -10,7 +10,6 @@ categories: ["Backend", "APIs", "SQL"]
 client: "Academic Capstone Project"
 role: "Database Designer & Java Developer"
 gallery:
-  - image: "assets/images/beauty_inventory/beauty_inv_schema.png"
 ---
 
 This project involved designing and implementing a relational database and RESTful API system for a fictional beauty & personal care company. The system allows inventory tracking, supplier relationship management, and automated stock replenishment based on sales. It was built in PostgreSQL and connected to a Java-based GUI for real-time interaction.
