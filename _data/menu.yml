@@ -6,10 +6,10 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "Project Layout 1"
-        icon: "/assets/images/icons/wireframe-7.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
-        description: "Default Project layout"
+      - name: "Beauty Inventory Database + APIs"
+        icon: "assets/images/beauty_inventory/beaty_inventory_thumbnail.png"
+        icon_darkmode: "assets/images/beauty_inventory/beaty_inventory_thumbnail.png"
+        description: "Focused in Database design and efficient data management/extraction."
         url: /projects/project-1/
       - name: "Project Layout 2"
         icon: "/assets/images/icons/wireframe-5.svg"
