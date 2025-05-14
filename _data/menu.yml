@@ -12,7 +12,7 @@ main:
         description: "Focused in Database design and efficient data management/extraction."
         url: /projects/beauty-inventory-db/
       - name: "State Legislative Archives Dashboard"
-        icon: "/assets/images/icons/wireframe-5.svg"
+        icon: "/assets/images/state_hearings/state-leg-dashboard.png"
         icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
         description: "An interactive R Shiny dashboard analyzing state-level legislative hearing transparency across the U.S."
         url: /projects/state-hearings/
