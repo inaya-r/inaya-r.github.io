@@ -1,6 +1,6 @@
 ---
 layout: project-left
-title: "Online Learninig Enrollment Dashboard"
+title: "Online Learning Enrollment Dashboard"
 description: "An Tableau dashboard exploring enrollment trends in online and ALE courses across a K-12 district."
 date: 2025-3-14
 weight: 2

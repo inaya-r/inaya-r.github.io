@@ -7,7 +7,7 @@ weight: 1
 thumbnail: "/assets/images/state_hearings/state-leg-dashboard.png"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["R", "Shiny", "Civic Tech", "Data Visualization"]
-client: "Joseph Ferrare - UWB Faculty"
+client: "UWB Faculty"
 role: "Data Analyst & R Shiny Developer"
 gallery:
   - image: "/assets/images/gen/projects/project-1-1.webp"
