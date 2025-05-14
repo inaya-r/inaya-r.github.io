@@ -9,9 +9,16 @@ description: "Aspiring data scientist & backend developer bridging technical sys
 
 # 👋 Hi, I'm Inaya Rizvi
 
-![Inaya Rizvi Headshot](/assets/images/gen/content/headshot.JPG){: style="max-width: 200px; border-radius: 12px; display: block; margin: 2rem auto;" }
-
-I'm an aspiring data scientist and backend developer passionate about machine learning, civic tech, and building tools that turn complexity into clarity. My work spans predictive modeling, RESTful APIs, and dynamic dashboards — always with the goal of making data accessible, actionable, and meaningful to both technical and non-technical audiences.
+<div class="row align-items-center mb-5">
+  <div class="col-md-4 text-center">
+    <img src="/assets/images/about/headshot.jpg" class="img-fluid rounded" style="max-width: 200px;" alt="Inaya Rizvi Headshot">
+  </div>
+  <div class="col-md-8">
+    <p>
+      I’m an aspiring data scientist and backend developer passionate about machine learning, civic tech, and building tools that turn complexity into clarity. My work spans predictive modeling, RESTful APIs, and dynamic dashboards — always with the goal of making data meaningful and accessible to both technical and non-technical audiences.
+    </p>
+  </div>
+</div>
 
 Currently, I'm studying **Data Visualization** with minors in **Data Science** and **Computer Science/Software Engineering** at the University of Washington Bothell (Class of 2025). 
 
