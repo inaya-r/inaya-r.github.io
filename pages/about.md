@@ -4,7 +4,7 @@ title: "About Me"
 date: 2025-05-13
 permalink: "/about/"
 description: "Aspiring data scientist & backend developer bridging technical systems with real-world impact."
-image: "/assets/images/gen/content/content-5.webp"
+image: "/assets/images/gen/content/headshot.JPG"
 ---
 
 # 👋 Hi, I'm Inaya Rizvi
@@ -52,7 +52,7 @@ Whether it's a SQL query, a Shiny dashboard, or a stakeholder-facing presentatio
 
 If you're into well-structured data systems, meaningful UX for analytics, or cross-functional collaboration, let’s chat!
 
-You can also view my [Github] (https://github.com/inaya-r) to view all my projects.  
- 
+You can also view my [Github](https://github.com/inaya-r) to view all my projects.  
+
 📧 [inaya_rizvi@outlook.com](mailto:inaya_rizvi@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/inaya-rizvi/)
