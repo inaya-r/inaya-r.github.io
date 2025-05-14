@@ -19,7 +19,7 @@
   --color-header-text:  {{ site.colors.header_text | default: "#111827" }};
   
   --logo-text-font-size: {{ site.logo.logo_text_font_size | default: "28px" }};
-  --logo-text-font-weight: {{ site.logo.logo_text_font_weight | default: 500 }};
+  --logo-text-font-weight: {{ site.logo.logo_text_font_weight | default: '500' }};
 
   --menu-font-family: {{ site.fonts.base }}, sans-serif;
   --menu-font-size: {{ site.header.header_menu_font_size | default: "16px" }};
