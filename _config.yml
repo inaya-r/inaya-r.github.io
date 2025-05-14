@@ -109,7 +109,7 @@ fonts:
 
 logo:
   logo_text: "Inaya Rizvi"
-  logo_image: assets/images/gen/content/headshot.jpg
+  logo_image: /assets/images/gen/content/headshot.jpg
   logo_image_mobile: assets/images/gen/content/headshot.jpg
   logo_image_invert: assets/images/logo/logo-invert.png
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
@@ -172,7 +172,7 @@ menu:
 footer:
   enable_footer: true # show/hide the entire footer
   footer_title: "Inaya Rizvi - Data Science Portfolio"
-  footer_description: "Aspiring Data Scientist open to opportunities and learning."
+  footer_description: "Aspiring Data Scientist"
   enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: true
