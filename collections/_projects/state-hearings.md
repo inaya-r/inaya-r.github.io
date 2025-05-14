@@ -4,7 +4,7 @@ title: "State Legislative Hearings Dashboard"
 description: "This interactive dashboard visualizes over a decade’s worth of U.S. state legislative hearing transcripts to uncover trends in transparency, access, and civic engagement."
 date: 2024-12-18
 weight: 1
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
+thumbnail: "/assets/images/state_hearings/state-leg-dashboard.png"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["R", "Shiny", "Civic Tech", "Data Visualization"]
 client: "Joseph Ferrare - UWB Faculty"

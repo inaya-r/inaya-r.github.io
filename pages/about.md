@@ -1,46 +1,55 @@
 ---
 layout: basic
 title: "About Me"
-date: 2018-11-28T15:15:34+10:00
+date: 2025-05-13
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+description: "Aspiring data scientist & backend developer bridging technical systems with real-world impact."
 image: "/assets/images/gen/content/content-5.webp"
 ---
 
-# Creating Modern Websites
+# 👋 Hi, I'm Inaya Rizvi
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+I'm an aspiring data scientist and backend developer passionate about machine learning, civic tech, and building tools that turn complexity into clarity. My work spans predictive modeling, RESTful APIs, and dynamic dashboards — always with the goal of making data accessible, actionable, and meaningful to both technical and non-technical audiences.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+Currently, I'm studying **Data Visualization** with minors in **Data Science** and **Computer Science/Software Engineering** at the University of Washington Bothell (Class of 2025). 
 
-## What is Web Design?
+I specialize in **translating data-driven insights into decisions**, with an eye for presentation, precision, and impact. But, I'm especially interested in using **ML models to identify patterns, support decisions, and improve access to information** in both public and private sector settings.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+---
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+## My Edge: Business + Technical Fluency
 
-## Front-end Development
+I thrive at the intersection of analysis and communication. I’ve worked on projects where I:
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+- Presented enrollment trends and predictions to education stakeholders with no coding background
+- Translated messy backend logic into clean, readable terminal tables for internal use
+- Designed visual comparisons for state policy data to support civic transparency
 
-> As a UX designer, you should consider the Why, What and How of product use.
+Whether it's a SQL query, a Shiny dashboard, or a stakeholder-facing presentation, I focus on **how data is used, not just how it’s stored**.
 
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
+---
 
-## Design Systems
+## Technical Skills
 
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
+- **Languages**: Python, R, SQL, Java, C++  
+- **Databases**: PostgreSQL, JDBC  
+- **Visualization**: R Shiny, Tableau, ggplot2, Streamlit  
+- **Tools**: VSCode, GitHub, Postman, ArcGIS Pro
+- **Machine Learning**: Ridge/Lasso Regression, Random Forest, K-nearest neighbors 
+- **Other**: RESTful API development, Git, data storytelling, civic tech
 
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
+---
 
-## Process
+## Selected Projects
 
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
+- A PostgreSQL + Java backend with smart restock logic for product inventory
+- A Shiny dashboard comparing public hearing transparency across U.S. states
+- Research using network graphs to model ecological food webs
 
-- User experience research
-- Visual design and illustration
-- Programming and coding
+---
 
-![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
+## 🤝 Let’s Connect
 
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+If you're into well-structured data systems, meaningful UX for analytics, or cross-functional collaboration, let’s chat!  
+📧 [inaya_rizvi@outlook.com](mailto:inaya_rizvi@outlook.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/inaya-rizvi/)
