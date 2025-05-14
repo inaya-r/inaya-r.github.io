@@ -21,11 +21,11 @@ main:
         icon_darkmode: "/assets/images/isd-board-report/pg1_br.jpg"
         description: "Tableau dashboard analyzing K–12 student enrollment trends in online and alternative learning programs."
         url: /projects/isd-board-report/
-      - name: "Project Layout 4"
-        icon: "/assets/images/icons/wireframe-8.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
-        description: "Top layout"
-        url: /projects/project-4/
+      - name: "Housing Prices Prediction"
+        icon: "/collections/_projects/housing-prices.md"
+        icon_darkmode: "/collections/_projects/housing-prices.md"
+        description: "Predicting home sale prices using Ridge, Lasso, and Random Forests"
+        url: /projects/housing-prices/
   # - name: Blog
   #   url: /blog/
   #   weight: 2
