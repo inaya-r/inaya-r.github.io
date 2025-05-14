@@ -11,7 +11,7 @@ description: "Aspiring data scientist & backend developer bridging technical sys
 
 
 <div class="row align-items-center mb-5">
-  <div class="col-md-5 text-center">
+  <div class="col-md-4 text-center">
     <img src="/assets/images/gen/content/headshot.JPG" class="img-fluid rounded" style="max-width: 200px;" alt="Inaya Rizvi Headshot">
   </div>
   <div class="col-md-8">
