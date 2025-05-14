@@ -50,5 +50,7 @@ The dashboard features:
 
 🔗 [Launch Full Dashboard](https://public.tableau.com/views/2023-24ISDSummaryReport/Story2)
 
+> This dashboard was designed for print, so it is formatted in letter page portrait format. 
+
 ---
 
