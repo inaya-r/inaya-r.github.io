@@ -12,11 +12,11 @@ description: "Aspiring data scientist & backend developer bridging technical sys
 
 <div class="row align-items-center mb-5">
   <div class="col-md-4 text-center">
-    <img src="/assets/images/gen/content/headshot.jpg" class="img-fluid rounded" style="max-width: 200px;" alt="Inaya Rizvi Headshot">
+    <img src="/assets/images/gen/content/headshot.JPG" class="img-fluid rounded" style="max-width: 200px;" alt="Inaya Rizvi Headshot">
   </div>
   <div class="col-md-8">
     <p>
-      I’m an aspiring data scientist and backend developer passionate about machine learning, civic tech, and building tools that turn complexity into clarity. My work spans predictive modeling, RESTful APIs, and dynamic dashboards — always with the goal of making data meaningful and accessible to both technical and non-technical audiences.
+      I am passionate about machine learning, civic tech, and building tools that turn complexity into clarity. My work spans predictive modeling, RESTful APIs, and dynamic dashboards — always with the goal of making data meaningful and accessible to both technical and non-technical audiences.
     </p>
   </div>
 </div>
