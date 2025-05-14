@@ -18,6 +18,11 @@ gallery:
 
 ---
 
+🔗 [View full project on GitHub](https://github.com/inaya-r/Housing-Prices-Predictions)
+
+---
+
+
 ### Key Features
 - Cleaned & encoded 80+ features from the Ames Housing dataset
 - Diagnosed multicollinearity using a correlation matrix
@@ -57,5 +62,3 @@ gallery:
 
 Ridge outperformed Lasso on this multicollinear dataset, but after careful hyperparameter tuning and preprocessing, Random Forests yielded the best performance overall. The final model generalized well, with its Kaggle leaderboard RMSE (0.15047) slightly outperforming the internal CV score — indicating a solid, well-validated pipeline.
 ---
-
-🔗 [View full project on GitHub](https://github.com/inaya-r/Housing-Prices-Predictions)
