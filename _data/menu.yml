@@ -10,7 +10,7 @@ main:
         icon: "assets/images/beauty_inventory/beaty_inventory_thumbnail.png"
         icon_darkmode: "assets/images/beauty_inventory/beaty_inventory_thumbnail.png"
         description: "Focused in Database design and efficient data management/extraction."
-        url: /projects/project-1/
+        url: /projects/beauty-inventory-db/
       - name: "Project Layout 2"
         icon: "/assets/images/icons/wireframe-5.svg"
         icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
@@ -26,9 +26,9 @@ main:
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: "Top layout"
         url: /projects/project-4/
-  - name: Blog
-    url: /blog/
-    weight: 2
+  # - name: Blog
+  #   url: /blog/
+  #   weight: 2
   - name: About
     url: /about/
     weight: 3
