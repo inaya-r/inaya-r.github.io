@@ -23,9 +23,11 @@ description: "Aspiring data scientist & backend developer bridging technical sys
 
 Currently, I'm studying **Data Visualization** with minors in **Data Science** and **Computer Science/Software Engineering** at the University of Washington Bothell (Class of 2025). 
 
-I specialize in **translating data-driven insights into decisions**, with an eye for presentation, precision, and impact. But, I'm especially interested in using **ML models to identify patterns, support decisions, and improve access to information** in both public and private sector settings.
+I specialize in **translating data-driven insights into decisions**, with an eye for presentation, precision, and impact. But, I'm especially interested in using **ML models to identify patterns, support decisions, and improve access to information** in both public and private sector settings.  
 
----
+
+---  
+
 
 ## My Edge: Business + Technical Fluency
 
@@ -35,9 +37,11 @@ I thrive at the intersection of analysis and communication. I’ve worked on pro
 - Translated messy backend logic into clean, readable terminal tables for internal use
 - Designed visual comparisons for state policy data to support civic transparency
 
-Whether it's a SQL query, a Shiny dashboard, or a stakeholder-facing presentation, I focus on **how data is used, not just how it’s stored**.
+Whether it's a SQL query, a Shiny dashboard, or a stakeholder-facing presentation, I focus on **how data is used, not just how it’s stored**.  
 
----
+
+---  
+
 
 ## Technical Skills
 
@@ -48,15 +52,19 @@ Whether it's a SQL query, a Shiny dashboard, or a stakeholder-facing presentatio
 - **Machine Learning**: Ridge/Lasso Regression, Random Forest, K-nearest neighbors 
 - **Other**: RESTful API development, Git, data storytelling, civic tech
 
----
+
+---  
+
 
 ## Selected Projects
 
 - A PostgreSQL + Java backend with smart restock logic for product inventory
 - A Shiny dashboard comparing public hearing transparency across U.S. states
-- Research using network graphs to model ecological food webs
+- Research using network graphs to model ecological food webs 
 
----
+
+---  
+
 
 ## 🤝 Let’s Connect
 
