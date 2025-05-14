@@ -20,7 +20,7 @@ main:
         icon: "/assets/images/icons/wireframe-6.svg"
         icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
         description: "Left side layout"
-        url: /projects/project-3/
+        url: /_projects/isd-board-report/
       - name: "Project Layout 4"
         icon: "/assets/images/icons/wireframe-8.svg"
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
