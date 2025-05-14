@@ -7,20 +7,20 @@ main:
     weight: 2
     child:
       - name: "Beauty Inventory Database + APIs"
-        icon: "assets/images/beauty_inventory/beaty_inventory_thumbnail.png"
-        icon_darkmode: "assets/images/beauty_inventory/beaty_inventory_thumbnail.png"
+        icon: "/assets/images/beauty_inventory/beaty_inventory_thumbnail.png"
+        icon_darkmode: "/assets/images/beauty_inventory/beaty_inventory_thumbnail.png"
         description: "Focused in Database design and efficient data management/extraction."
         url: /projects/beauty-inventory-db/
       - name: "State Legislative Archives Dashboard"
         icon: "/assets/images/state_hearings/state-leg-dashboard.png"
-        icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
+        icon_darkmode: "/assets/images/state_hearings/state-leg-dashboard.png"
         description: "An interactive R Shiny dashboard analyzing state-level legislative hearing transparency across the U.S."
         url: /projects/state-hearings/
-      - name: "Project Layout 3"
-        icon: "/assets/images/icons/wireframe-6.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
-        description: "Left side layout"
-        url: /_projects/isd-board-report/
+      - name: "ISD Online Learning Summary Board Report"
+        icon: "/assets/images/isd-board-report/pg1_br.jpg"
+        icon_darkmode: "/assets/images/isd-board-report/pg1_br.jpg"
+        description: "Tableau dashboard analyzing K–12 student enrollment trends in online and alternative learning programs."
+        url: /projects/isd-board-report/
       - name: "Project Layout 4"
         icon: "/assets/images/icons/wireframe-8.svg"
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
