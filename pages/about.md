@@ -12,7 +12,7 @@ description: "Aspiring data scientist & backend developer bridging technical sys
 
 <div class="row align-items-center mb-5">
   <div class="col-md-4 text-center">
-    <img src="/assets/images/gen/content/headshot.JPG" class="img-fluid rounded" style="max-width: 200px;" alt="Inaya Rizvi Headshot">
+    <img src="/assets/images/gen/content/headshot.JPG" class="img-fluid rounded" style="max-width: 400px;" alt="Inaya Rizvi Headshot">
   </div>
   <div class="col-md-8">
     <p>
@@ -62,7 +62,7 @@ Whether it's a SQL query, a Shiny dashboard, or a stakeholder-facing presentatio
 
 If you're into well-structured data systems, meaningful UX for analytics, or cross-functional collaboration, let’s chat!
 
-You can also view my [Github](https://github.com/inaya-r) to view all my projects.  
+You can also view my [Github](https://github.com/inaya-r) to check out all my projects.  
 
 📧 [inaya_rizvi@outlook.com](mailto:inaya_rizvi@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/inaya-rizvi/)

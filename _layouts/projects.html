@@ -17,7 +17,7 @@ body_classes: page-projects
 </div>
 
 
-{% assign cards = site.projects | sort: 'date' | reverse %}
+{% assign cards = site.projects | sort: 'weight' %}
 {% assign limit = page.projects.limit | default: 999 %}
 {% assign sort_by = page.projects.sort | default: 'date' %}
 {% assign columns =  page.projects.columns | default: 3 %}
