@@ -5,8 +5,8 @@ description: "Regression models to predict house sale prices using Ridge, Lasso,
 date: 2025-4-20
 weight: 4
 permalink: /projects/housing-prices
-thumbnail: "/collections/_projects/housing-prices.md"
-image: "/collections/_projects/housing-prices.md"
+thumbnail: "/assets/images/housing-prices/housing_prices_thumbnail.png"
+image: "/assets/images/housing-prices/housing_prices_thumbnail.png"
 client: "Kaggle Practice Competition"
 categories: ["Machine Learning", "Regression", "Python"]
 role: "Data Scientist - Basic Level"

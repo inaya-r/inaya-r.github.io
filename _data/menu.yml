@@ -22,8 +22,8 @@ main:
         description: "Tableau dashboard analyzing K–12 student enrollment trends in online and alternative learning programs."
         url: /projects/isd-board-report/
       - name: "Housing Prices Prediction"
-        icon: "/collections/_projects/housing-prices.md"
-        icon_darkmode: "/collections/_projects/housing-prices.md"
+        icon: "/assets/images/housing-prices/housing_prices_thumbnail.png"
+        icon_darkmode: "/assets/images/housing-prices/housing_prices_thumbnail.pngd"
         description: "Predicting home sale prices using Ridge, Lasso, and Random Forests"
         url: /projects/housing-prices/
   # - name: Blog
