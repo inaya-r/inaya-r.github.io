@@ -50,6 +50,9 @@ Whether it's a SQL query, a Shiny dashboard, or a stakeholder-facing presentatio
 
 ## 🤝 Let’s Connect
 
-If you're into well-structured data systems, meaningful UX for analytics, or cross-functional collaboration, let’s chat!  
+If you're into well-structured data systems, meaningful UX for analytics, or cross-functional collaboration, let’s chat!
+
+You can also view my [Github] (https://github.com/inaya-r) to view all my projects.  
+ 
 📧 [inaya_rizvi@outlook.com](mailto:inaya_rizvi@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/inaya-rizvi/)
