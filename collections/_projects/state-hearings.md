@@ -1,5 +1,5 @@
 ---
-layout: project-right
+layout: project
 title: "State Legislative Hearings Dashboard"
 description: "This interactive dashboard visualizes over a decade’s worth of U.S. state legislative hearing transcripts to uncover trends in transparency, access, and civic engagement."
 date: 2024-12-18
