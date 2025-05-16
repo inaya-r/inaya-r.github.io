@@ -109,7 +109,7 @@ fonts:
 
 logo:
   logo_text: "Inaya Rizvi"
-  logo_image: /assets/images/gen/content/headshot.jpg
+  logo_image: assets/images/logo/logo.png
   logo_image_mobile: assets/images/gen/content/headshot.jpg
   logo_image_invert: assets/images/logo/logo-invert.png
   logo_image_invert_mobile: assets/images/logo/logo-invert-mobile.png
