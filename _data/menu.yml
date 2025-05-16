@@ -25,7 +25,7 @@ main:
         icon: "/assets/images/housing-prices/housing_prices_thumbnail.png"
         icon_darkmode: "/assets/images/housing-prices/housing_prices_thumbnail.pngd"
         description: "Predicting home sale prices using Ridge, Lasso, and Random Forests"
-        url: /projects/housing-prices/
+        url: /projects/housing-prices
   # - name: Blog
   #   url: /blog/
   #   weight: 2
@@ -38,14 +38,14 @@ main:
   
 
 footer_primary:
-  - name: "Project 1"
-    url: /projects/project-1/
-  - name: "Project 2"
-    url: /projects/project-2/
-  - name: "Project 3"
-    url: /projects/project-3/
-  - name: "Project 4"
-    url: /projects/project-4/
+  - name: "Beauty Inventory Database + APIs"
+    url: /projects/beauty-inventory-db/
+  - name: "State Legislative Hearings Dashboard"
+    url: /projects/state-hearings/
+  - name: "ISD Online Learning Summary Board Report"
+    url: /projects/isd-board-report/
+  - name: "Housing Prices Prediction"
+    url: /projects/housing-prices
 
 footer_secondary:
   - name: Blog
