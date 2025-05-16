@@ -10,10 +10,8 @@ categories: ["R", "Shiny", "Civic Tech", "Data Visualization"]
 client: "UWB Faculty"
 role: "Data Analyst & R Shiny Developer"
 gallery:
-  - image: "/assets/images/gen/projects/project-1-1.webp"
-    caption: "<strong>Above:</strong> North easterly aspect showing curved design"
-  - image: "/assets/images/gen/projects/project-1-2.webp"
-    caption: "<strong>Above:</strong> Rear offices square design in contrast"
+  - image: "/assets/images/state_hearings/state-leg-p1.png"
+  - image: "/assets/images/state_hearings/state-leg-p2.png"
 gallery_limit: 2
 ---
 
