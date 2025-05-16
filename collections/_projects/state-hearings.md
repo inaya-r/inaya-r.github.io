@@ -50,3 +50,9 @@ This dashboard was built to:
 ### 🌐 View the Live Dashboard
 
 👉 [Launch Dashboard](https://inaya-r.shinyapps.io/StateHearings_Dashboard/)
+
+---
+
+*Note: All data used in this project was manually collected from publicly accessible state legislature websites. This dashboard was created solely for educational purposes and does not use or expose any private or restricted information.*
+
+---

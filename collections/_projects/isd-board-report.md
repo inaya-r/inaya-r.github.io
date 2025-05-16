@@ -54,3 +54,6 @@ The dashboard features:
 
 ---
 
+*Note: All data used in this dashboard is publicly available and was provided with permission from the school district’s online learning department for educational purposes.*
+
+---

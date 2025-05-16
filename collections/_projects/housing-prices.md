@@ -62,3 +62,7 @@ gallery:
 
 Ridge outperformed Lasso on this multicollinear dataset, but after careful hyperparameter tuning and preprocessing, Random Forests yielded the best performance overall. The final model generalized well, with its Kaggle leaderboard RMSE (0.15047) slightly outperforming the internal CV score — indicating a solid, well-validated pipeline.
 ---
+
+*Note: This project uses publicly available data from Kaggle, shared under open data terms.*
+
+---
