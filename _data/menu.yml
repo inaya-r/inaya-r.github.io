@@ -48,21 +48,21 @@ footer_primary:
     url: /projects/housing-prices
 
 footer_secondary:
-  - name: Blog
-    url: /blog/
-    weight: 2
+  # - name: Blog
+  #   url: /blog/
+  #   weight: 2
   - name: About
     url: /about/
     weight: 3
   - name: Contact
     url: /contact/
     weight: 4
-  - name: Privacy Policy
-    url: /privacy-policy/
-    weight: 1
-  - name: Terms and Conditions
-    url: /terms-and-conditions/
-    weight: 2
+  # - name: Privacy Policy
+  #   url: /privacy-policy/
+  #   weight: 1
+  # - name: Terms and Conditions
+  #   url: /terms-and-conditions/
+  #   weight: 2
 
 footer_tertiary:
   - name: Privacy Policy
